@@ -60,12 +60,3 @@ Ce GitHub retrace toute ma progression, depuis mes débuts en tant que développ
 </p>
 
 ---
-
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=silverfish000&color=87CEEB&style=for-the-badge)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B0D4F1,50:87CEEB,100:5A9FCA&height=100&section=footer"/>
-
-</div>
