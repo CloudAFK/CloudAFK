@@ -55,13 +55,6 @@ Ce GitHub retrace toute ma progression, depuis mes débuts en tant que développ
 </div>
 
 ---
-
-## 📊 Statistiques GitHub
-
-
-<div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmg1NWhwZDB0aGRueHNvZW93dGpzcWozeGJoaWh5OHVrZTBlc3lqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3wr2cnwlghNomDeN9W/giphy.gif" width="250">
-</div>
 <p align="center">
   Je commencerais a poster sur ce github a partir de aout (avant c'est full revision)
 </p>
