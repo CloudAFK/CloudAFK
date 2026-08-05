@@ -3,7 +3,11 @@
 </h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green.svg" />
+    <img src="./profile-3d-contrib/profile-green.svg" alt="3D contribution graph" />
+  </picture>
 </p>
 
 <p align="center">
@@ -19,11 +23,9 @@
 <img align="right" alt="Coding" width="280" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 Étudiant à l'école **42**.
-
 Ce GitHub retrace toute ma progression, depuis mes débuts en tant que développeur junior jusqu'à, je l'espère, développeur senior.
 
 **Mes centres d'intérêt :**
-
 - 🔒 Cybersécurité & Ethical Hacking
 - 🐧 Systèmes Linux & Programmation Bas Niveau
 - 🔐 Création d'outils sécurisés et respectueux de la vie privée
@@ -36,7 +38,6 @@ Ce GitHub retrace toute ma progression, depuis mes débuts en tant que développ
 ## 🛠️ Stack & Outils
 
 <h4 align="center">Langages</h4>
-
 <p align="center">
   <img src="https://img.shields.io/badge/C-87CEEB?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/Python-6DB3D4?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -47,7 +48,6 @@ Ce GitHub retrace toute ma progression, depuis mes débuts en tant que développ
 </p>
 
 <h4 align="center">Outils & Environnement</h4>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-B0D4F1?style=for-the-badge&logo=linux&logoColor=333" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-5A9FCA?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
