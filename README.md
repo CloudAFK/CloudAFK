@@ -57,14 +57,15 @@ Ce GitHub retrace toute ma progression, depuis mes débuts en tant que développ
 
 ---
 
-## 📂 Projets 42
+## 📂 Projets 42 & Other
 
 <div align="center">
 
 | Projet | Description | Statut |
 | :--- | :--- | :---: |
-| **libft** | Ma propre bibliothèque C : fonctions de la libc, manipulation de chaînes, mémoire et listes chaînées. | <img src="https://img.shields.io/badge/EN_COURS-87CEEB?style=for-the-badge" alt="En cours" /> |
+| **ft_snake** | Juste un simple serpent | <img src="https://img.shields.io/badge/EN_COURS-87CEEB?style=for-the-badge" alt="En cours" /> |
 | **ft_search** | Retrouve un nombre dans un tableau trié grâce à la recherche dichotomique. | <img src="https://img.shields.io/badge/EN_COURS-87CEEB?style=for-the-badge" alt="En cours" /> |
+| **libft** | Ma propre bibliothèque C : fonctions de la libc, manipulation de chaînes, mémoire et listes chaînées. | <img src="https://img.shields.io/badge/%C3%80_VENIR-39424E?style=for-the-badge" alt="À venir" /> |
 | **get_next_line** | Lecture d'une ligne depuis un file descriptor, gestion des buffers et des variables statiques. | <img src="https://img.shields.io/badge/%C3%80_VENIR-39424E?style=for-the-badge" alt="À venir" /> |
 | **ft_i_ii_iii** | Modules complémentaires du cursus. Compter en chiffre romain | <img src="https://img.shields.io/badge/%C3%80_VENIR-39424E?style=for-the-badge" alt="À venir" /> |
 | **ft_printf** | Réécriture de `printf` : parsing du format, arguments variadiques et conversions. | <img src="https://img.shields.io/badge/%C3%80_VENIR-39424E?style=for-the-badge" alt="À venir" /> |
